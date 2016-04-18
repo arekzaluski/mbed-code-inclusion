@@ -13,7 +13,7 @@ setup(
     long_description=(read('Readme.md')),
     author='Michael Quested',
     author_email='michael.quested@arm.com',
-    license='BSD',
+    license='MIT',
     url='https://github.com/ARMmbed/mbed-docs/tree/master/readthedocs/mbed/markdown_extensions/code-inclusion',
     include_package_data=True,
     version='1.0',
