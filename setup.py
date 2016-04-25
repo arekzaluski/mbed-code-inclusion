@@ -10,7 +10,7 @@ def read(*paths):
 setup(
     name='code-inclusion',
     description='This is plugin to extend python markdown and allow it include code blocks from other sources.',
-    long_description=(read('Readme.md')),
+    long_description=(read('README.md')),
     author='Michael Quested',
     author_email='michael.quested@arm.com',
     license='MIT',
